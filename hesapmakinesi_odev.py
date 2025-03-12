@@ -1,0 +1,6 @@
+sayi1 = int(input("Birinci sayıyı giriniz: "))
+sayi2 = int(input("İkinci sayıyı giriniz: "))   
+print(f"{sayi1} + {sayi2} = {sayi1 + sayi2}")
+print(f"{sayi1} - {sayi2} = {sayi1 - sayi2}")
+print(f"{sayi1} * {sayi2} = {sayi1 * sayi2}")
+print(f"{sayi1} / {sayi2} = {sayi1 / sayi2}")
