@@ -1,0 +1,7 @@
+path: C:\Users\Mete\Desktop\Kodlar\acunmedya_anaconda\Acunmedya_Anaconda\cv\dataset
+train: images
+val: images
+
+nc: 1
+names:
+  0: plaka
